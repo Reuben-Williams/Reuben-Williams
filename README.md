@@ -17,6 +17,7 @@
   - June 2024
 - CISSP
   - June 2024
+- [TryHackMe - Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HSA9COEDJX.png)
 
 <h2> 🤳 Connect with me:</h2>
 
