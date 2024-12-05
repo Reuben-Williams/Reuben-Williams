@@ -2,7 +2,6 @@
 
 <h2>👨‍💻My Projects:</h2>
 
-- <b>PowerShell</b>
   - [Azure Sentinel & Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [TryHackMe SOC Level 1](https://github.com/Reuben-Williams/TryHackMe-SOC-Level-1/tree/main)
 
@@ -16,6 +15,7 @@
 - CompTIA CySA+
   - Expected: December 2024
 - [TryHackMe - SOC 1 Learning Path]([https://imgur.com/5TLc1bN])
+  - December 2024
 - [TryHackMe - SOC 2 Learning Path]([https://imgur.com/7IeMfSB])
-
+  - December 2024
 <h2> 🤳 Connect with me:</h2>
