@@ -21,4 +21,3 @@
 - [TryHackMe - SOC 2 Learning Path]([https://imgur.com/7IeMfSB])
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Reuben C. Williams Jr. | LinkedIn" width="22px" src="https://www.linkedin.com/in/reuben-cornell-williams-jr-10bb15247/" />][linkedin]
