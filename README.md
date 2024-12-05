@@ -4,10 +4,7 @@
 
 - <b>PowerShell</b>
   - [Azure Sentinel & Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - SOC Automation Project (Home Lab)
-  - TryHackMe SOC Level 1
+  - [TryHackMe SOC Level 1](https://github.com/Reuben-Williams/TryHackMe-SOC-Level-1/tree/main)
 
 
 <h2>Certifications:</h2>
