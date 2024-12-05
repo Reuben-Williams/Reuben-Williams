@@ -1,4 +1,4 @@
-<h1>Welcome to Reuben's Porfolio <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Aspirant & </a><a href="https://github.com/joshmadakor1">Programmer</a> </h1>
+<h1>Welcome to Reuben's Porfolio <br/><a href="https://www.linkedin.com/in/reuben-cornell-williams-jr-10bb15247/">Cybersecurity Aspirant & </a>Programmer </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -14,28 +14,11 @@
 - Google Cybersecurity Professional
   - May 2024
 - CompTIA Security+
-  - June 2024
-- CISSP
-  - June 2024
-- [TryHackMe - Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HSA9COEDJX.png)
+  - November 2024
+- CompTIA CySA+
+  - Expected: December 2024
+- [TryHackMe - SOC 1 Learning Path]([https://imgur.com/5TLc1bN])
+- [TryHackMe - SOC 2 Learning Path]([https://imgur.com/7IeMfSB])
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Reuben C. Williams Jr. | LinkedIn" width="22px" src="https://www.linkedin.com/in/reuben-cornell-williams-jr-10bb15247/" />][linkedin]
