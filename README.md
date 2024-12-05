@@ -9,7 +9,7 @@
 
 <h2>Certifications:</h2>
 
-- [Google Cybersecurity Professional] (https://www.credly.com/badges/aa8bcf9e-06d2-4337-aaf8-32f2ff7263db/public_url)
+- [Google Cybersecurity Professional](https://www.credly.com/badges/aa8bcf9e-06d2-4337-aaf8-32f2ff7263db/public_url)
   - May 2024
 - CompTIA Security+
   - November 2024
