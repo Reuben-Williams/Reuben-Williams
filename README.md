@@ -11,7 +11,7 @@
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/aa8bcf9e-06d2-4337-aaf8-32f2ff7263db/public_url)
   - May 2024
-- CompTIA Security+
+- [CompTIA Security+](https://www.credly.com/badges/d288b0a7-4bd3-4d84-a167-3c4b8cddcb6e/public_url)
   - November 2024
 - CompTIA CySA+
   - Expected: December 2024
