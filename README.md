@@ -14,8 +14,8 @@
   - November 2024
 - CompTIA CySA+
   - Expected: December 2024
-- [TryHackMe - SOC 1 Learning Path]([https://imgur.com/5TLc1bN])
+- [TryHackMe - SOC 1 Learning Path]([https://i.imgur.com/5TLc1bN_d.webp?maxwidth=760&fidelity=grand])
   - December 2024
-- [TryHackMe - SOC 2 Learning Path]([https://imgur.com/7IeMfSB])
+- [TryHackMe - SOC 2 Learning Path]([https://i.imgur.com/7IeMfSB_d.webp?maxwidth=760&fidelity=grand])
   - December 2024
 <h2> 🤳 Connect with me:</h2>
