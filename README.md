@@ -2,7 +2,7 @@
 
 <h2>👨‍💻My Projects:</h2>
 
-  - [Azure Sentinel & Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Failed RDP to Geolocation Lab](https://github.com/Reuben-Williams/Failed-RDP-to-IP-Geolocation-Information-Lab)
   - [TryHackMe SOC Level 1](https://github.com/Reuben-Williams/TryHackMe-SOC-Level-1/tree/main)
 
 
