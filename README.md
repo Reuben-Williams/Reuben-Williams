@@ -1,4 +1,5 @@
 # Reuben Williams
+
 ### Healthcare IT support • Identity & access workflows • Cybersecurity
 
 I am an IT Service Desk Analyst at Pivot Point Consulting, supporting enterprise healthcare environments. My work centers on account access, authentication troubleshooting, endpoint and application support, and clear technical documentation. I am building on that experience toward entry-level opportunities in identity and access management (IAM) and security operations (SOC).
@@ -10,26 +11,26 @@ I am an IT Service Desk Analyst at Pivot Point Consulting, supporting enterprise
 - **Service delivery:** Document, prioritize, track and resolve technical incidents and service requests through ITSM workflows.
 - **Collaboration:** Previous IT internship experience includes leading a three-person website project team and translating stakeholder requirements into technical work.
 
-## Selected security learning
+## Featured project: Hyper-V Home SOC Lab
 
-These repositories document personal training and lab work, separate from my professional IT support experience.
+[Explore the Home SOC Lab](https://github.com/Reuben-Williams/Home-SOC-Lab)
+
+I built a personal Windows 11 Pro / Hyper-V lab with **Wazuh, Sysmon, and Windows/Linux endpoints**. Completed controlled-lab milestones include:
+
+- Validated **process telemetry and file integrity monitoring**, including file creation, modification, and deletion alerts.
+- Investigated an **SSH authentication sequence** and verified password-based SSH denial after locking a disposable test account.
+- Created and tested a **custom Wazuh correlation rule** for five SSH authentication failures from one source within 120 seconds.
+
+The repository contains architecture, build notes, and two case studies. These are personal lab outcomes, not production security incidents. Broader negative testing, tuning, and additional integrations remain future work; public screenshots will be added after privacy review.
+
+## Other security learning
+
+These repositories document guided training and lab work, separate from my professional IT support experience.
 
 | Repository | Focus |
 | --- | --- |
 | [TryHackMe SOC Level 1 learning notes](https://github.com/Reuben-Williams/TryHackMe-SOC-Level-1) | Guided exercises in network traffic analysis, endpoint telemetry, SIEM investigation and phishing analysis, with screenshots and explanations. |
 | [Failed RDP event geolocation lab](https://github.com/Reuben-Williams/Failed-RDP-to-IP-Geolocation-Information-Lab) | A documented Azure Sentinel lab using PowerShell to extract failed-logon events and enrich source IP data for visualization. |
-
-## Current build: Hyper-V SOC lab
-
-**Status: in progress.** I am developing a Windows 11 Pro / Hyper-V lab with Ubuntu Server, an internal SOC-LAB network and an update path through NAT.
-
-The next planned deliverables are:
-
-1. An authentication-event investigation with a timeline, evidence and alternative explanations.
-2. A detection rule with repeatable tests, false-positive analysis and tuning notes.
-3. An incident report that distinguishes observed facts from assumptions and explains response recommendations.
-
-These deliverables are planned, not completed case studies. This section will link to reviewed work samples as they are finished.
 
 ## Credentials and education
 
